@@ -105,12 +105,3 @@ If you'd like a different top layout, alternate hole patterns, or a cleaned KiCa
 No license file is included. If you plan to redistribute or commercialize, please contact the designer to request a license or permission. For personal/hobby builds this repo is provided as-is.
 
 ---
-
-**Files created/edited for this README:** This file itself — [README.md](README.md).
-
-If you'd like I can also:
-- add a simple assembly diagram
-- prepare a Gerber README with exact filenames for your PCB fab
-- export STLs as ready-to-slice bundles
-
-Ask which of these you'd like next.
