@@ -99,3 +99,9 @@ If you need the original KiCad project or different PCB footprints, contact the 
 If you'd like a different top layout, alternate hole patterns, or a cleaned KiCad project, open an issue or contact the designer and request the change. Small tweaks (e.g., screw hole size) can be done quickly in Fusion 360 and re-exported.
 
 ---
+
+**License & attribution**
+
+- **License:** This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See [LICENSE](LICENSE) for the full text. By using, modifying, or redistributing this project or derivative works, you agree to be bound by the terms of GPLv3, which require that any distributed modifications or derivative works be released under the same license (share-alike).
+
+---
