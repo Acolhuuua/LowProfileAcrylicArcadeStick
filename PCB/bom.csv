@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"A1, B1, LB1, LT1, RB1, RT1, X, Y2",SW_Hotswap_Kailh_Choc_V2,8,SW_Hotswap_Kailh_Choc_V2,C5333465
+"D1, D2, D3, D4, D5, D6, D7, D8",LED_SK6812-E,8,SK6812-E,
+J1,JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,1,Conn_01x02_Socket,
+JOYSTICK1,JST_EH_S5B-EH_1x05_P2.50mm_Horizontal,1,Conn_01x05_Socket,C265103
+"L3/LS, PS/HOME, R3/RS, SHARE/BACK, START, TOUCH/-, TURBO",SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,7,SW_MEC_5E,C5149201
+RZ1,RP2040-Zero,1,RP2040-Zero,C5350143
